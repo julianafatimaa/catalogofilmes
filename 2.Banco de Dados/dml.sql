@@ -8,7 +8,7 @@ INSERT INTO tb_usuario (nm_usuario, ds_email, ds_senha)
             nm_usuario           nome,
               ds_email           email
        from tb_usuario
-		where ds_email          = 'admin@admin.com.br'
+	   where ds_email        = 'admiin@admin.com.br'
           and ds_senha          = '1234';
           
      
